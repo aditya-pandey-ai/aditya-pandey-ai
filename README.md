@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 2nd-year B.Tech student, diving into the exciting realm of Artificial Intelligence and Machine Learning. My journey is all about using AI to solve real-world problems and keeping up with the latest advancements. I love getting my hands dirty with practical projects and staying in the loop with what's happening in the tech world. Let's connect and work together to bring AI innovation to life!
+I'm a 3rd-year B.Tech student, diving into the exciting realm of Artificial Intelligence and Machine Learning. My journey is all about using AI to solve real-world problems and keeping up with the latest advancements. I love getting my hands dirty with practical projects and staying in the loop with what's happening in the tech world. Let's connect and work together to bring AI innovation to life!
 
 
 ## 🌐 Socials:
